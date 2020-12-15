@@ -1,0 +1,29 @@
+{
+    "assets": [],
+    "build": {
+      "build_number": 0,
+      "build_time": 0,
+      "release": false
+    },
+    "encryptLevel": 0,
+    "useFeatures": [],
+    "icon": "res/logo.png",
+    "launchConfig": {
+      "displaySplash": true,
+      "hideLogs": true,
+      "splashText": "手机通知转发到Quicker",
+      "stableMode": true,
+      "splashIcon": "res/logo.png"
+    },
+    "main": "main.js",
+    "name": "发送通知",
+    "optimization": {
+      "removeOpenCv": true,
+      "unusedResources": true
+    },
+    "packageName": "com.cesaryuan.notification",
+    "scripts": {},
+    "versionCode": 1,
+    "versionName": "1.0.0"
+  }
+  
